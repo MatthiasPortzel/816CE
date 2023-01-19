@@ -1,3 +1,7 @@
+/**
+ * 65(c)816 simulator/emulator (816CE)
+ * Copyright (C) 2023 Zach Baldwin
+ */
 
 #include "65816-ops.h"
 

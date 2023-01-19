@@ -1,8 +1,6 @@
 /**
- * 65(c)816 emulator/simulator
- * (C) Zach Baldwin 2023
- * Started: 2021-12-31 Zach Baldwin
- * Updated: 2023-01-07
+ * 65(c)816 simulator/emulator (816CE)
+ * Copyright (C) 2023 Zach Baldwin
  */
 
 // For sys/stat operations

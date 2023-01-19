@@ -1,6 +1,6 @@
 /**
- * 65(c)816 emulator/simulator
- * (C) Zach Baldwin 2023
+ * 65(c)816 simulator/emulator (816CE)
+ * Copyright (C) 2023 Zach Baldwin
  */
 
 #ifndef _DEBUGGER_H
